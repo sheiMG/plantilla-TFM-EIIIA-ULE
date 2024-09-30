@@ -1,4 +1,4 @@
-# Trabajo de Fin de Grado: *Título*
+# Trabajo de Fin de Máster: *Título*
 
 **Este sería el README de tu proyecto. Consulta las [instrucciones de
 instalación](INSTALL.md)

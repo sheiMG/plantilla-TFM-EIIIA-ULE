@@ -2,7 +2,7 @@
 
 class App {
   constructor() {
-    this.name = "TFG Libre ETSIIT-UGR";
+    this.name = "TFM Libre EIIIA-ULE";
   }
 }
 

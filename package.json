@@ -1,7 +1,7 @@
 {
-    "name": "TFG-plantilla",
+    "name": "TFM-plantilla",
     "version": "0.0.1",
-    "description": "Plantilla para un TFG",
+    "description": "Plantilla para un TFM",
     "main": "app.js",
     "license": "GPL-3.0",
     "directories": {
